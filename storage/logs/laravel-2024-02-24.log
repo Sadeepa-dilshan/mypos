@@ -1,0 +1,1344 @@
+[2024-02-24 17:16:03] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:08] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:13] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:18] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:21] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:23] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:28] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:33] production.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:33] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:35] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:35] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:38] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:43] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:46] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:48] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:53] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:56] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:16:59] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:03] production.ERROR: Class App\Utils\ProductUtil does not exist {"exception":"[object] (ReflectionException(code: 0): Class App\\Utils\\ProductUtil does not exist at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:853, ParseError(code: 0): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\app\\Utils\\ProductUtil.php:2022)
+[stacktrace]
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(853): ReflectionParameter->getClass()
+#1 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(816): Illuminate\\Container\\Container->resolveDependencies(Array)
+#2 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Console\\\\Com...')
+#3 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Console\\\\Com...', Array)
+#4 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Console\\\\Com...', Array)
+#5 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(258): Illuminate\\Foundation\\Application->make('App\\\\Console\\\\Com...')
+#6 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(244): Illuminate\\Console\\Application->resolve('App\\\\Console\\\\Com...')
+#7 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(149): Illuminate\\Foundation\\Console\\Kernel->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Console\\Application))
+#8 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(72): Illuminate\\Console\\Application->bootstrap()
+#9 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(342): Illuminate\\Console\\Application->__construct(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Events\\Dispatcher), '5.8.38')
+#10 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Foundation\\Console\\Kernel->getArtisan()
+#11 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 {main}
+"} 
+[2024-02-24 17:17:03] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:05] production.ERROR: Class App\Utils\ProductUtil does not exist {"exception":"[object] (ReflectionException(code: 0): Class App\\Utils\\ProductUtil does not exist at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:853, ParseError(code: 0): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\app\\Utils\\ProductUtil.php:2022)
+[stacktrace]
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(853): ReflectionParameter->getClass()
+#1 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(816): Illuminate\\Container\\Container->resolveDependencies(Array)
+#2 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Console\\\\Com...')
+#3 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Console\\\\Com...', Array)
+#4 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Console\\\\Com...', Array)
+#5 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(258): Illuminate\\Foundation\\Application->make('App\\\\Console\\\\Com...')
+#6 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(244): Illuminate\\Console\\Application->resolve('App\\\\Console\\\\Com...')
+#7 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(149): Illuminate\\Foundation\\Console\\Kernel->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Console\\Application))
+#8 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(72): Illuminate\\Console\\Application->bootstrap()
+#9 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(342): Illuminate\\Console\\Application->__construct(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Events\\Dispatcher), '5.8.38')
+#10 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Foundation\\Console\\Kernel->getArtisan()
+#11 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 {main}
+"} 
+[2024-02-24 17:17:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:05] production.ERROR: Class App\Utils\ProductUtil does not exist {"exception":"[object] (ReflectionException(code: 0): Class App\\Utils\\ProductUtil does not exist at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:853, ParseError(code: 0): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\app\\Utils\\ProductUtil.php:2022)
+[stacktrace]
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(853): ReflectionParameter->getClass()
+#1 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(816): Illuminate\\Container\\Container->resolveDependencies(Array)
+#2 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Console\\\\Com...')
+#3 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Console\\\\Com...', Array)
+#4 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Console\\\\Com...', Array)
+#5 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(258): Illuminate\\Foundation\\Application->make('App\\\\Console\\\\Com...')
+#6 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(244): Illuminate\\Console\\Application->resolve('App\\\\Console\\\\Com...')
+#7 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(149): Illuminate\\Foundation\\Console\\Kernel->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Console\\Application))
+#8 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(72): Illuminate\\Console\\Application->bootstrap()
+#9 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(342): Illuminate\\Console\\Application->__construct(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Events\\Dispatcher), '5.8.38')
+#10 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Foundation\\Console\\Kernel->getArtisan()
+#11 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 {main}
+"} 
+[2024-02-24 17:17:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:08] production.ERROR: Class App\Utils\ProductUtil does not exist {"exception":"[object] (ReflectionException(code: 0): Class App\\Utils\\ProductUtil does not exist at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:853, ParseError(code: 0): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\app\\Utils\\ProductUtil.php:2022)
+[stacktrace]
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(853): ReflectionParameter->getClass()
+#1 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(816): Illuminate\\Container\\Container->resolveDependencies(Array)
+#2 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Console\\\\Com...')
+#3 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Console\\\\Com...', Array)
+#4 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Console\\\\Com...', Array)
+#5 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(258): Illuminate\\Foundation\\Application->make('App\\\\Console\\\\Com...')
+#6 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(244): Illuminate\\Console\\Application->resolve('App\\\\Console\\\\Com...')
+#7 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(149): Illuminate\\Foundation\\Console\\Kernel->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Console\\Application))
+#8 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(72): Illuminate\\Console\\Application->bootstrap()
+#9 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(342): Illuminate\\Console\\Application->__construct(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Events\\Dispatcher), '5.8.38')
+#10 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Foundation\\Console\\Kernel->getArtisan()
+#11 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 {main}
+"} 
+[2024-02-24 17:17:08] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:10] production.ERROR: Class App\Utils\ProductUtil does not exist {"exception":"[object] (ReflectionException(code: 0): Class App\\Utils\\ProductUtil does not exist at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:853, ParseError(code: 0): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\app\\Utils\\ProductUtil.php:2022)
+[stacktrace]
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(853): ReflectionParameter->getClass()
+#1 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(816): Illuminate\\Container\\Container->resolveDependencies(Array)
+#2 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Console\\\\Com...')
+#3 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Console\\\\Com...', Array)
+#4 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Console\\\\Com...', Array)
+#5 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(258): Illuminate\\Foundation\\Application->make('App\\\\Console\\\\Com...')
+#6 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(244): Illuminate\\Console\\Application->resolve('App\\\\Console\\\\Com...')
+#7 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(149): Illuminate\\Foundation\\Console\\Kernel->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Console\\Application))
+#8 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(72): Illuminate\\Console\\Application->bootstrap()
+#9 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(342): Illuminate\\Console\\Application->__construct(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Events\\Dispatcher), '5.8.38')
+#10 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Foundation\\Console\\Kernel->getArtisan()
+#11 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 {main}
+"} 
+[2024-02-24 17:17:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:10] production.ERROR: Class App\Utils\ProductUtil does not exist {"exception":"[object] (ReflectionException(code: 0): Class App\\Utils\\ProductUtil does not exist at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:853, ParseError(code: 0): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\app\\Utils\\ProductUtil.php:2022)
+[stacktrace]
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(853): ReflectionParameter->getClass()
+#1 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(816): Illuminate\\Container\\Container->resolveDependencies(Array)
+#2 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Console\\\\Com...')
+#3 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Console\\\\Com...', Array)
+#4 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Console\\\\Com...', Array)
+#5 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(258): Illuminate\\Foundation\\Application->make('App\\\\Console\\\\Com...')
+#6 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(244): Illuminate\\Console\\Application->resolve('App\\\\Console\\\\Com...')
+#7 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(149): Illuminate\\Foundation\\Console\\Kernel->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Console\\Application))
+#8 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(72): Illuminate\\Console\\Application->bootstrap()
+#9 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(342): Illuminate\\Console\\Application->__construct(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Events\\Dispatcher), '5.8.38')
+#10 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Foundation\\Console\\Kernel->getArtisan()
+#11 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 {main}
+"} 
+[2024-02-24 17:17:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:11] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:14] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:16] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:18] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:21] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:23] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:26] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:28] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:31] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:33] production.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
+#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Model')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:33] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:35] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:36] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:38] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:41] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:44] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:46] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:48] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:51] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:54] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:56] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:17:58] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:18:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:18:01] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:18:04] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:18:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-24 17:18:06] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\custom_views" directory does not exist. in D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\symfony\finder\Finder.php:603
+Stack trace:
+#0 D:\Laravel Project\Clicky Pos 4.7.8\New folder\POS-V4.7.8\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(414): Symfony\Component\Finder\Finder->in('D:\\Laravel Proj...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('D:\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\Laravel Proj...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\custom_views\" directory does not exist. in D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603
+Stack trace:
+#0 D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(414): Symfony\\Component\\Finder\\Finder->in('D:\\\\Laravel Proj...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('D:\\\\Laravel Proj...')
+#2 Command line code(1): getViews('D:\\\\Laravel Proj...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at D:\\Laravel Project\\Clicky Pos 4.7.8\\New folder\\POS-V4.7.8\\vendor\\symfony\\finder\\Finder.php:603)
+[stacktrace]
+#0 {main}
+"} 
